@@ -1,0 +1,3 @@
+delete riak database's bucket
+
+The project has bash script and golang solution.
